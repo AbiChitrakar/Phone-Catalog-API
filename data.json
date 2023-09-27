@@ -1,0 +1,105 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S21",
+      "brand": "Samsung"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13",
+      "brand": "Apple"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6",
+      "brand": "Google"
+    },
+    {
+      "id": 4,
+      "name": "Huawei P40",
+      "brand": "Huawei"
+    },
+    {
+      "id": 5,
+      "name": "OnePlus 9",
+      "brand": "OnePlus"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Mi 11",
+      "brand": "Xiaomi"
+    },
+    {
+      "id": 7,
+      "name": "Sony Xperia 1 III",
+      "brand": "Sony"
+    },
+    {
+      "id": 8,
+      "name": "LG G8 ThinQ",
+      "brand": "LG"
+    },
+    {
+      "id": 9,
+      "name": "Nokia 8.3",
+      "brand": "Nokia"
+    },
+    {
+      "id": 10,
+      "name": "Motorola Moto G Power",
+      "brand": "Motorola"
+    },
+    {
+      "id": 11,
+      "name": "ASUS ZenFone 8",
+      "brand": "ASUS"
+    },
+    {
+      "id": 12,
+      "name": "Oppo Find X3 Pro",
+      "brand": "Oppo"
+    },
+    {
+      "id": 13,
+      "name": "Vivo V21",
+      "brand": "Vivo"
+    },
+    {
+      "id": 14,
+      "name": "Realme 8 Pro",
+      "brand": "Realme"
+    },
+    {
+      "id": 15,
+      "name": "Lenovo Legion Phone Duel 2",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 16,
+      "name": "ZTE Axon 30 Ultra",
+      "brand": "ZTE"
+    },
+    {
+      "id": 17,
+      "name": "BlackBerry KEY2",
+      "brand": "BlackBerry"
+    },
+    {
+      "id": 18,
+      "name": "Poco X3 Pro",
+      "brand": "Poco"
+    },
+    {
+      "id": 19,
+      "name": "Honor View 20",
+      "brand": "Honor"
+    },
+    {
+      "id": 20,
+      "name": "Meizu 18",
+      "brand": "Meizu"
+    }
+  ],
+  "brands": ["Samsung", "Apple", "Google", "Huawei", "OnePlus", "Xiaomi", "Sony", "LG", "Nokia", "Motorola", "ASUS", "Oppo", "Vivo", "Realme", "Lenovo", "ZTE", "BlackBerry", "Poco", "Honor", "Meizu"]
+}
